@@ -7,11 +7,11 @@ This wording highlights your enthusiasm while maintaining a professional tone.</
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chirucs" alt="chirucs" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/chiruscs](https://www.linkedin.com/in/a-bc-ch5051306/" target="blank"><img src="https://img.shields.io/twitter/follow/chiruscs?logo=twitter&style=for-the-badge" alt="chiruscs" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/a-bc-ch5051306/" target="blank"><img src="https://img.shields.io/twitter/follow/chiruscs?logo=twitter&style=for-the-badge" alt="chiruscs" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-<p align="left"> <a href="https://twitter.com/chiruscs](https://www.linkedin.com/in/a-bc-ch5051306/" target="blank"><img src="https://img.shields.io/twitter/follow/chiruscs?logo=twitter&style=for-the-badge" alt=".." /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/a-bc-ch5051306/" target="blank"><img src="https://img.shields.io/twitter/follow/chiruscs?logo=twitter&style=for-the-badge" alt=".." /></a> </p>
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
