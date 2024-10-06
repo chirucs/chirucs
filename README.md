@@ -18,7 +18,7 @@ This wording highlights your enthusiasm while maintaining a professional tone.</
 <p align="left">
 <a href="https://dev.to/chirucs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="chirucs" height="30" width="40" /></a>
 <a href="https://twitter.com/chiruscs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chiruscs" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chiranjeevi vantaku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chiranjeevi vantaku" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/a-bc-ch5051306/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chiranjeevi vantaku" height="30" width="40" /></a>
 <a href="https://kaggle.com/chirucs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chirucs" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/chirumscs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chirumscs" height="30" width="40" /></a>
 </p>
