@@ -1,7 +1,7 @@
 <h1 align="center">Hi, This is chiru👋</h1>
 <h3 align="center">I am a dedicated tech student at Stevens Institute of Technology with a strong foundation in programming and a passion for innovation in generative AI, natural language processing (NLP), deep learning (DL), and machine learning (ML). I thrive on working on cutting-edge projects and am eager to contribute to building novel solutions in these fields.
 
-This wording highlights your enthusiasm while maintaining a professional tone.</h3>
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chirucs&label=Profile%20views&color=0e75b6&style=flat" alt="chirucs" /> </p>
 
