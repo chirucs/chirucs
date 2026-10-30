@@ -1,5 +1,5 @@
 <h1 align="center">Hi, This is chiru👋</h1>
-<h3 align="center">I am a Tech student at Stevens Institute of Technology with a strong foundation in programming and a passion for innovation in Software Development and generative AI. I thrive on working on cutting-edge projects and am eager to contribute to building novel solutions in these fields.
+<h3 align="center">Forward Deployed AI Engineer.
 
 </h3>
 
